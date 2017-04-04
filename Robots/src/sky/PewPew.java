@@ -8,7 +8,6 @@ import robocode.*;
 import robocode.util.Utils;
 
 
-//test changes
 public class PewPew extends AdvancedRobot {
 
 	Point2D.Double pos, ePos;
