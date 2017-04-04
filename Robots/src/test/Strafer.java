@@ -7,6 +7,9 @@ import java.awt.geom.*;
 import java.awt.Color;
 import java.awt.Graphics2D;
 
+
+// Strafer does a really simple prediction
+
 public class Strafer extends AdvancedRobot {
 	private static List<Point2D.Double>	predictions	= new ArrayList<Point2D.Double>();
 	Point2D.Double myPos, enemyPos;
