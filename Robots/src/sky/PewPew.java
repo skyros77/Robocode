@@ -7,7 +7,6 @@ import java.awt.geom.Point2D;
 import robocode.*;
 import robocode.util.Utils;
 
-//WTF!!
 public class PewPew extends AdvancedRobot {
 
 	Point2D.Double pos, ePos;
